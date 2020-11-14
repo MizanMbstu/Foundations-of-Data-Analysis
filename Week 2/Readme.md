@@ -2,7 +2,7 @@
 # Austin Animal Shelter Data
 
 
-
+[pets](pets.png)
 Have you ever been curious about how long it takes for an animal to be adopted?  To investigate questions like this, we contacted the Austin Animal Shelter and they provided us with information about 473 cats and dogs.  Included in the dataset are information about how the animals arrived at the shelter, their sex, breed, age, weight, and the number of days spent in the shelter.  The data is contained in AnimalData.csv and each variable is described in the codebook file.
 
 
